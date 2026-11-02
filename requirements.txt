@@ -1,0 +1,2 @@
+# Zero external pip dependencies required
+# Pure Python Standard Library

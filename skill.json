@@ -1,0 +1,22 @@
+{
+  "name": "genpark-personal-agent-physiological-tremor-stability-skill",
+  "version": "1.0.0",
+  "description": "Deterministic personal agent skill for monitoring physiological microtremor spectral bands (8-12 Hz), postural stability, and central motor fatigue.",
+  "author": "GenPark Autonomous Agents Ecosystem",
+  "license": "MIT",
+  "tags": [
+    "personal-agent",
+    "ai-agent",
+    "openclaw",
+    "genpark",
+    "mcp",
+    "mcp-server",
+    "model-context-protocol",
+    "python",
+    "zero-dependency",
+    "wellness",
+    "productivity",
+    "production-ready"
+  ],
+  "entrypoint": "mcp_server.py"
+}
